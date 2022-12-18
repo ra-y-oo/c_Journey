@@ -12,9 +12,8 @@ int main()
      *multiplication
      */
 
-
-    printf("%d", 5 / 4);
-    printf("%f", 5/4.0);
+    printf("%d \n", 5 / 4);
+    printf("%f \n", 5 / 4.0);
 
     /*COMPLEX FUNCTIONS
     *floor
@@ -22,7 +21,7 @@ int main()
     *sqrt
     *pow*/
 
-    printf("%f", pow (2, 3) );
+    printf("%f \n", pow(2, 3));
 
     return 0;
 }
